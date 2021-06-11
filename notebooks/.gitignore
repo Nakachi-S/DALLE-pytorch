@@ -1,0 +1,4 @@
+*
+!.gitignore
+!dall-e_深層学習特論.ipynb
+!train_dall-e.py
